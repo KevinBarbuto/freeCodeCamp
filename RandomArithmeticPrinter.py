@@ -3,7 +3,7 @@
 
 import random
 
-for i in range(1,101): # Change "101" into however many items to generate.
+for i in range(1,101): # Change "101" into however many items to generate. In the case of the inspiring post, this would be 9001.
     a = random.randint(1,9999)
 
     operator = random.choice(["+","-","*","/"])
