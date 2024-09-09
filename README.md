@@ -1,3 +1,1 @@
-A repository for smaller projects that don't deserve their own repos, but others may find useful nevertheless.
-
-Brief explanations for each file are included as short comments at the top of each file.
+These are codes I wrote while following along with the great courses at freecodecamp.org. Since these were written while following along with online courses, they don't necessarily represent my personal coding or design style beyond showing off some of what I've been exposed to.
